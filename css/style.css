@@ -89,10 +89,11 @@
   }
   .header-title {
     font-size: 28px;
+    padding-top: 40vh;
     word-break: break-word;
   }
     .hero-text {
-    padding-top: 50vh;
+    padding-top: 50px;
   }
   body {
     padding: 0;
