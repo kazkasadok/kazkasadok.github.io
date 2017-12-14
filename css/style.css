@@ -83,7 +83,7 @@
 .asdf {
   color: white;
 }
-@media (max-width: 992px) {
+/*@media (max-width: 992px) {
   .main-text {
     padding-right: 20px;
   }
@@ -103,6 +103,7 @@
     background-color: #fff;
   }
 }
+*/
 .header-title {
-   padiding-top: 35vh;
+   padiding-top: 25vh;
 }
